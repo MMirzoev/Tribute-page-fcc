@@ -1,0 +1,61 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(26, 37, 37);
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+}
+caption {
+  font-style: italic;
+}
+figure {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-top: 15px;
+  text-align: center;
+}
+.short-info {
+  margin: 0 auto;
+  text-align: center;
+  width: 70%;
+}
+
+main {
+  margin-top: 0;
+  background-color: rgb(230, 236, 238);
+  border-radius: 10px;
+}
+
+figure {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border-radius: 10px;
+}
+
+#tribute-info {
+  display: block;
+  justify-content: center;
+  margin: 0 auto;
+  width: 70%;
+  text-align: justify;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.footer {
+  text-align: center;
+}
+.footer a {
+  text-decoration: none;
+}
